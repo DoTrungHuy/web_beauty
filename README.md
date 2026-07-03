@@ -134,3 +134,5 @@ async function cacheVideoFrames(videoUrl, targetFps = 18) {
   ```
 
 祝你的 AI 编程助手带给你更多震撼的视觉创作！🚀
+
+**Made with ❤️ by DoTrungHuy**
